@@ -2,5 +2,4 @@
 title: Welcome to Quartz
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is test not that i create to test my nuclear energy topic in Malaysia
